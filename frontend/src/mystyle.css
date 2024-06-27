@@ -1,0 +1,21 @@
+.custom-navbar{
+    background-color:#FFEFD5 !important;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+    
+}
+.custom-carousel{
+    height: 700px !important;
+}
+.custom-image{
+    height: 100% !important;
+}
+.custom-i{
+    height: 300px;
+}
+.custom-height{
+    height: 400px;
+    width: 300px;
+}
